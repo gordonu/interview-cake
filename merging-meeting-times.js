@@ -50,7 +50,7 @@ return a
 mergeRanges(ranges)
 
 
-
+//I had to realize that I could sort them and merge them in place.
 
 
 
